@@ -32,7 +32,7 @@ Ensure you have the following installed on your Linux system:
 
 Open your terminal and run the following command:
 ```
-git clone https://github.com/Venu00/NMAP.git
+git clone https://github.com/VEXMAN-hacks/NMAP.git
 ```
 
 #### Navigate to the Directory:
